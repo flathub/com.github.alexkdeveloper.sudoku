@@ -1,7 +1,7 @@
 {
     "app-id": "com.github.alexkdeveloper.sudoku",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "42",
+    "runtime-version": "43",
     "sdk": "org.gnome.Sdk",
     "command": "com.github.alexkdeveloper.sudoku",
     "finish-args": [
@@ -37,8 +37,8 @@
             "sources": [{
                  "type" : "git",
                  "url" : "https://github.com/alexkdeveloper/sudoku.git",
-                 "tag": "1.0.3",
-                 "commit": "e2ff98f39aeb14923e192e00a3c951bbd7819e4d"
+                 "tag": "1.0.4",
+                 "commit": "7fa694da6b892c1d92e665f6a96314f1cd4fc062"
             }]
         }
     ]
