@@ -19,26 +19,14 @@
                 "sha256": "1753736c31feea0085f5cfac33143743204f8a7e66b81ccd17e249ecafba802f"
             }]
         },
-         {
-            "name": "granite",
-            "buildsystem": "meson",
-            "sources": [
-              {
-                "type": "git",
-                "url": "https://github.com/elementary/granite.git",
-                "tag": "6.2.0",
-                "commit": "4ab145c28bb3db6372fe519e8bd79c645edfcda3"
-              }
-            ]
-         },
         {
             "name": "sudoku",
             "buildsystem": "meson",
             "sources": [{
                  "type" : "git",
                  "url" : "https://github.com/alexkdeveloper/sudoku.git",
-                 "tag": "1.0.4",
-                 "commit": "7fa694da6b892c1d92e665f6a96314f1cd4fc062"
+                 "tag": "1.0.5",
+                 "commit": "b734f31f8c04062de4b0310614a405007f66885f"
             }]
         }
     ]
