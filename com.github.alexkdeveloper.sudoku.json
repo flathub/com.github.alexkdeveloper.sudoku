@@ -26,7 +26,12 @@
                  "type" : "git",
                  "url" : "https://github.com/alexkdeveloper/sudoku.git",
                  "tag": "1.0.7"
-            }]
+                },
+                {
+                    "type" : "patch",
+                    "path": "fix-appdata.patch"
+                }
+            ]
         }
     ]
 }
